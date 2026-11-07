@@ -41,9 +41,9 @@ A small project where I look at customer data from an online shop to answer two 
 ## Files
 
 - `data/` – CSV files
-- `excel/` – cleaning and pivot tables
+- `Excel/` – cleaning and pivot tables
 - `sql/queries.sql` – all SQL queries
 - `customer_dashboard.pbix` – dashboard file
-- `screenshots/` – images of the work
+- `Screenshots/` – images of the work
 
 *Note: the data is synthetic, so the results show my method, not real business facts.*
