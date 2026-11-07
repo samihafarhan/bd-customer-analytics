@@ -34,9 +34,9 @@ A small project where I look at customer data from an online shop to answer two 
 
 ## Dashboard
 
-![Customer segments](Screenshots/power%20bi/retention.png)
+![Customer segments](Screenshots/power%20bi/segment.png)
 
-![Retention](Screenshots/power%20bi/segment.png)
+![Retention](Screenshots/power%20bi/retention.png)
 
 ## Files
 
